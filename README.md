@@ -1,3 +1,3 @@
 # Portuguese-Bank-Marketing
 The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
-Applied Various Classification Techniques like KNN, XGBoost, Logestic Regression, etc.
+Applied Various Machine Learing Classification Techniques like KNN, XGBoost, Logestic Regression, etc.
